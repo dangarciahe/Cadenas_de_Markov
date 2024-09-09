@@ -2,3 +2,5 @@
 myenv/
 .idea/
 .gitignore~
+*.html
+*_preguntas.pdf # Los archivos con la descripcion del taller suministrados por el profesor
